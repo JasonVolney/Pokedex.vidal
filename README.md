@@ -47,7 +47,7 @@ How can you see the methods GET, POST, PUT and DELETE are present. Go to GET met
 
 ![](.gitbook/assets/image%20%282%29.png)
 
-Let's go back to the YAML file. Important: YAML syntax must be well-respected the indentation, because is sensitive case, mainly for spacings. See the example bellow:
+Important: YAML syntax must be well-respected the indentation, because is sensitive case, mainly for spacings. See the example bellow:
 
 ```yaml
 Syntax
@@ -93,7 +93,7 @@ KNOW THE TRAINING
 Leave your comment
 ```
 
-This part of code is responsable for generate the GET method. Where we can declare the paths or endpoints that we want to include, and the waited responses in case of achieving the data in JSON format. It's return the status 200 OK when the answer is positive. Also, we can add a brief comments about this, like a instructions for the users on our summary.
+Let's go back to the YAML file. This part of code is responsable for generate the GET method. Where we can declare the paths or endpoints that we want to include, and the waited responses in case of achieving the data in JSON format. It's return the status 200 OK when the answer is positive. Also, we can add a brief comments about this, like a instructions for the users on our summary.
 
 ```text
 paths:
@@ -109,5 +109,7 @@ The same it's apply to the other methods.
 
 ![Example for Swagger API ](.gitbook/assets/image%20%283%29.png)
 
-The diferences are that we can see that the template basically is online. While the insomnia Designer application it's installed your own machine.  **Swagger**™ is a project used to describe and document RESTful **APIs**. The **Swagger** specification defines a set of files required to describe such an **API**. These files can then be used by the **Swagger**-UI project to display the **API** and **Swagger**-Codegen to generate clients in various languages. It's very easy to document your API in both applications.
+The diferences are that we can see that the template basically is online. While the insomnia Designer application it's installed your own machine. **Swagger**™ is a project used to describe and document RESTful **APIs**. The **Swagger** specification defines a set of files required to describe such an **API**. These files can then be used by the **Swagger**-UI project to display the **API** and **Swagger**-Codegen to generate clients in various languages. It's very easy to document your API in both applications. 
+
+Otherwise, OpenAPI Document it's a document \(or set of documents\) that defines or describes an API. An OpenAPI definition uses and conforms to the OpenAPI Specification.
 
