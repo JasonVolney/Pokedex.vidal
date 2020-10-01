@@ -111,5 +111,7 @@ The same it's apply to the other methods.
 
 The diferences are that we can see that the template basically is online. While the insomnia Designer application it's installed your own machine. **Swagger**™ is a project used to describe and document RESTful **APIs**. The **Swagger** specification defines a set of files required to describe such an **API**. These files can then be used by the **Swagger**-UI project to display the **API** and **Swagger**-Codegen to generate clients in various languages. It's very easy to document your API in both applications. 
 
-Otherwise, OpenAPI Document it's a document \(or set of documents\) that defines or describes an API. An OpenAPI definition uses and conforms to the OpenAPI Specification.
+Otherwise, OpenAPI Document it's a document \(or set of documents\) that defines or describes an API. An OpenAPI definition uses and conforms to the OpenAPI Specification. [https://www.infoq.com/br/articles/openapi/](https://www.infoq.com/br/articles/openapi/)
+
+
 
