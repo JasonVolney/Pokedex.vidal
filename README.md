@@ -23,7 +23,7 @@ git clone https://github.com/vidal987/Pokedex.vidal.git
 cd Pokedex.vidal
 ```
 
-Open up the code on your favorite IDE, in my case I use VSCode, and in your terminal type npm install for update dependencies for this project. Run `npm start` to see application in your browser. Or open with Live Server extension for VSCode.
+Open up the code on your favorite IDE, in my case I use VSCode, and in your terminal type npm install for update dependencies for this project. Run `npm start` to see application in your browser. Or then you can open with Live Server extension for VSCode.
 
 ![](.gitbook/assets/image%20%281%29.png)
 
