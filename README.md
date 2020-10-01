@@ -47,7 +47,53 @@ How can you see the methods GET, POST, PUT and DELETE are present. Go to GET met
 
 ![](.gitbook/assets/image%20%282%29.png)
 
-Let's go back to the YAML file. Important: YAML syntax must be well-respected the indentation, because is sensitive case, mainly for spacings. This part of code is responsable for generate the GET method. Where we can declare the paths or endpoints that we want to include, and the waited responses in case of achieving the data in JSON format. It's return the status 200 OK when the answer is positive. Also, we can add a brief comments about this, like a instructions for the users on our summary.
+Let's go back to the YAML file. Important: YAML syntax must be well-respected the indentation, because is sensitive case, mainly for spacings. See the example bellow:
+
+```yaml
+Syntax
+
+The YAML syntax is extremely simple and readable, as we can see below:
+
+employee:
+ name: João
+ age: 30
+ male
+ profession: Programmer
+  depend:
+   name: Maria
+   women
+
+As seen above, YAML allows data structures in a very simple way. In the previous example, we determined the attributes of an employee (name, age, sex and profession), in addition to a relationship with a dependent, who also has his attributes (name and sex).
+
+In JSON, a structure above can be seen as follows:
+
+{
+"employee": {
+    "name": "João",
+    "age": 30,
+    "male",
+    "profession": "Programmer",
+        "dependent": {
+            "name": "Maria",
+            "women"
+        }
+    }
+}
+
+Symfony - Fundamentals
+Symfony Course - Fundamentals
+KNOW THE COURSE
+We can conclude that…
+
+YAML is also a great alternative to store and structure data to be transferred between different systems. It has a cleaner and more readable syntax than its main “competitors”, XML and JSON and can be used in different programming languages.
+Python Developer
+Training: Full Python Developer
+Learn how to work with relational databases in Python applications using a DB API and MySQL.
+KNOW THE TRAINING
+Leave your comment
+```
+
+This part of code is responsable for generate the GET method. Where we can declare the paths or endpoints that we want to include, and the waited responses in case of achieving the data in JSON format. It's return the status 200 OK when the answer is positive. Also, we can add a brief comments about this, like a instructions for the users on our summary.
 
 ```text
 paths:
