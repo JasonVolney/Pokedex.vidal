@@ -113,6 +113,10 @@ The diferences are that we can see that the template basically is online. While 
 
 Otherwise, OpenAPI Document it's a document \(or set of documents\) that defines or describes an API. An OpenAPI definition uses and conforms to the OpenAPI Specification. [https://www.infoq.com/br/articles/openapi/](https://www.infoq.com/br/articles/openapi/)
 
+{% embed url="https://www.youtube.com/watch?v=Fyuk50fFllM" %}
+
+
+
 
 
 
