@@ -43,5 +43,19 @@ You can find the code in YAML format on codeshare.io [https://codeshare.io/senai
 
 ![CRUD - CREATE, READ, UPDATE and DELETE methods](.gitbook/assets/microsoftteams-image-1-.png)
 
+How can you see the methods GET, POST, PUT and DELETE are present. Go to GET method clicking in this button, and it's show us more informations like: parameters, and option like responses formats. Also, it's possible to copy the [Curl](https://curl.haxx.se/) commands and URL links.
 
+![](.gitbook/assets/image%20%282%29.png)
+
+Let's go back to the YAML file. This part of code is responsable for generate the GET method. Where we can declare the paths or endpoints that we want to include, and the waited responses in case of achieving the data in JSON format. It's return the status 200 OK when the answer is positive. Also, we can add a brief comments about this, like a instructions for the users on our summary.
+
+```text
+paths:
+    /pokemons/{id}: 
+      get:
+        summary: Passe o id no corpo da requisição
+        responses:
+          '200':
+            description: OK
+```
 
