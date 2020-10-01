@@ -59,3 +59,5 @@ paths:
             description: OK
 ```
 
+The same it's apply for other methods.
+
