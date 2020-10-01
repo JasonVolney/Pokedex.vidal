@@ -43,7 +43,7 @@ You can find the code in YAML format on codeshare.io [https://codeshare.io/senai
 
 ![CRUD - CREATE, READ, UPDATE and DELETE methods](.gitbook/assets/microsoftteams-image-1-.png)
 
-How can you see the methods GET, POST, PUT and DELETE are present. Go to GET method clicking in this button, and it's show us more informations like: parameters, and option like responses formats. Also, it's possible to copy the [Curl](https://curl.haxx.se/) commands and URL links.
+How can you see the methods GET, POST, PUT and DELETE are present. Go to GET method clicking in this button, and it's show us more informations like: parameters, and option responses formats. Also, it's possible to copy the [Curl](https://curl.haxx.se/) commands and URL links.
 
 ![](.gitbook/assets/image%20%282%29.png)
 
