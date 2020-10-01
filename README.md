@@ -61,3 +61,7 @@ paths:
 
 The same it's apply to the other methods.
 
+![Example for Swagger API ](.gitbook/assets/image%20%283%29.png)
+
+The diferences are that we can see that the template basically is online. While the insomnia Designer application it's installed your own machine.  **Swagger**™ is a project used to describe and document RESTful **APIs**. The **Swagger** specification defines a set of files required to describe such an **API**. These files can then be used by the **Swagger**-UI project to display the **API** and **Swagger**-Codegen to generate clients in various languages. It's very easy to document your API in both applications.
+
