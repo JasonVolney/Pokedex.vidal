@@ -8,7 +8,7 @@ description: Simple tutorial for aid the development of the documentation API Po
 
 The propose here is starting a new API and to do the API documentation for mockup our data at the application. Let's get started!
 
-First of all, we made use of an API with HTTP methods, and to document this we used tools to facilitate the understanding of how to use the methods in the API, such a tool used in the previous example, the INSOMNIA DESIGNER, which has the purpose of making the interface designer API documentation using a [Swagger](https://github.com/swagger-api/swagger-ui) or [OpenAPI](https://github.com/OAI/OpenAPI-Specification) standard. Using a text language called YAML. The links for some that references are bellow:
+First of all, we made use of an API with HTTP methods, and to document this we used tools to facilitate the understanding of how to use the methods in the API, such a tool used in the previous example, the INSOMNIA DESIGNER, which has the purpose of making the interface designer API documentation using a [Swagger](https://github.com/swagger-api/swagger-ui) or [OpenAPI](https://github.com/OAI/OpenAPI-Specification) standard. Using a text language called [YAML](https://blog.stackpath.com/yaml/). The links for some that references are bellow:
 
 {% embed url="https://github.com/OAI/OpenAPI-Specification/blob/master/versions/3.0.3.md\#parameterObject" caption="OpenAPI-Specification" %}
 
