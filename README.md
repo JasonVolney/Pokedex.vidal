@@ -119,6 +119,8 @@ Otherwise, OpenAPI Document it's a document \(or set of documents\) that defines
 
 {% embed url="https://www.youtube.com/watch?v=Fyuk50fFllM" %}
 
+Here I'm presenting this project for my teachers and class friends about how I was create this documentation. Sorry, in portuguese only.
+
 <iframe width="640" height="360" src="https://web.microsoftstream.com/embed/video/15c7753c-e3a4-4608-af7a-92e716466403?autoplay=false&amp;showinfo=true" allowfullscreen style="border:none;"></iframe>
 
 
